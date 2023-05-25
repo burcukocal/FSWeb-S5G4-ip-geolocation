@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-var benimIP = "85.107.109.199";
+var benimIP;
 
 // ------------ değiştirmeyin --------------
 // licensed to Ergineer 2022
